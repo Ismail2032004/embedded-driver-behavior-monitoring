@@ -1,0 +1,17 @@
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+secrets.h
+config.local.*
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+node_modules/
+dist/
+build/
+.pio/
+.DS_Store
+Thumbs.db
