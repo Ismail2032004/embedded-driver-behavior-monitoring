@@ -24,15 +24,15 @@ The goal is to build a complete pipeline from raw sensor data to real-time drive
 
 embedded-driver-behavior-monitoring/
 │
-├── driver_app/          # Flutter mobile application
-├── driver_dashboard/    # Dashboard for visualization and analytics
-├── firmware/esp32/      # ESP32 firmware for data collection and inference
-├── hardware/            # Hardware design files and documentation
-├── ml/                  # Machine learning pipeline and model training
-│   ├── notebooks/
-│   └── README.md
+├── driver_app/ # Flutter mobile application
+├── driver_dashboard/ # Dashboard for visualization and analytics
+├── firmware/
+│ └── esp32/ # ESP32 firmware for data collection and inference
+├── hardware/ # Hardware design files and documentation
+├── ml/ # Machine learning pipeline and model training
+│ ├── notebooks/
+│ └── README.md
 
----
 
 ## System Architecture
 
